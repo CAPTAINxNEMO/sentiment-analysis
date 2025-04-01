@@ -9,4 +9,3 @@ regex = "1.10.6"
 reqwest = "0.12.5"
 scraper = "0.20.0"
 tokio = {version = "1.39.2", features = ["full"]}
-vader_sentiment = "0.1.1"
